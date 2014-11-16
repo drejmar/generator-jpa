@@ -1,6 +1,6 @@
 {
   "name": "generator-jpa",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate scripted JPA data model",
   "license": "MIT",
   "main": "app/index.js",
@@ -21,13 +21,16 @@
   ],
   "keywords": [
     "drejmar",
-    "Java", "JPA", "Java Persistence API",
+    "Java",
+    "JPA",
+    "Java Persistence API",
     "data model",
     "yeoman-generator"
   ],
   "dependencies": {
-    "yeoman-generator": "^0.18.0",
     "chalk": "^0.5.1",
+    "js-yaml": "^3.2.3",
+    "yeoman-generator": "^0.18.0",
     "yosay": "^1.0.0"
   },
   "devDependencies": {

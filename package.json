@@ -1,6 +1,6 @@
 {
   "name": "generator-jpa",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generate scripted JPA data model",
   "license": "MIT",
   "main": "app/index.js",
